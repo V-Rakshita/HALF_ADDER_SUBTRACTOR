@@ -36,15 +36,15 @@ Figure -02 HALF Subtractor
 
 ## **Procedure**
 
-1.	Type the program in Quartus software.
+1. Open Quartus and create a new project. Go to File -> New -> Verilog HDL File and type the program.
 
-2.	Compile and run the program.
+2. Compile and run the program.
 
-3.	Generate the RTL schematic and save the logic diagram.
+3. Then go to Tools -> NetList Viewers -> RTL Viewer and generate the RTL schematic and save the logic diagram.
 
-4.	Create nodes for inputs and outputs to generate the timing diagram.
+4. Then go to File -> New -> University program VWF. Create nodes for inputs and outputs to generate the timing diagram.
 
-5.	For different input combinations generate the timing diagram.
+5. Give different input combinations and go to Run Functional Simulation to generate the timing diagram.
 
 
 ## **Program:**
